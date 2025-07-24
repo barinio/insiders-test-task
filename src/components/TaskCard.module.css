@@ -1,0 +1,34 @@
+.card {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.statusTodo {
+    background-color: #e5e7eb;
+}
+
+.statusInProgress {
+    background-color: #fef08a;
+}
+
+.statusDone {
+    background-color: #bbf7d0;
+}
+
+.title {
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+    color: black;
+}
+
+.description {
+    margin-bottom: 0.5rem;
+    color: gray;
+
+}
+
+.statusText {
+    font-size: 0.875rem;
+    color: blue;
+}

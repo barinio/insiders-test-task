@@ -1,0 +1,23 @@
+
+
+.loadingSvg {
+    width: 3rem;
+    height: 3rem;
+    animation: spin 1s linear infinite;
+    color: #4f46e5; /* indigo-600 */
+}
+
+.loadingCircle {
+    opacity: 0.25;
+}
+
+.loadingPath {
+    opacity: 0.75;
+    fill: currentColor;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
