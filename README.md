@@ -1,2 +1,3 @@
 This is an insiders-test-task project
-mamamia@gmail.com mamamia123
+
+Backend репозиторій: [TODO Backend](https://github.com/barinio/back-insiders-test-task).
